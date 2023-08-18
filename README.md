@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamonchanokket
-- 👀 I’m interested in business intelligent tools and programming for data engineer
+- 👀 I’m interested in business intelligent tools and programming for data
 - 🌱 I’m currently learning Python , R programming for data science
 - 📫 How to reach me email : kamonchanok.ketjamnong@gmail.com
 
